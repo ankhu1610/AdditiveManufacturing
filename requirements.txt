@@ -1,0 +1,7 @@
+streamlit
+trimesh
+numpy
+scipy
+networkx
+shapely
+rtree
