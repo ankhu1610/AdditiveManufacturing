@@ -1,0 +1,8 @@
+piece_1_1_0.stl
+piece_0_1_1.stl
+piece_1_0_0.stl
+piece_0_1_0.stl
+piece_1_1_1.stl
+piece_0_0_1.stl
+piece_1_0_1.stl
+piece_0_0_0.stl
